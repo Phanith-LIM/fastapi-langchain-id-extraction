@@ -1,0 +1,10 @@
+google-generativeai
+langchain~=0.3.20
+langchain_google_genai
+pydantic~=2.10.6
+fastapi[standard]~=0.115.11
+uvicorn[standard]
+gunicorn
+starlette~=0.46.1
+langchain-google-genai~=2.0.10
+python-dotenv~=1.0.1
