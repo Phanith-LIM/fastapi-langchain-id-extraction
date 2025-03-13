@@ -1,0 +1,44 @@
++--------------------------------------------+----------------------------------------------------+
+| ID                                         | NAME                                               |
++--------------------------------------------+----------------------------------------------------+
+| models/chat-bison-001                      | PaLM 2 Chat (Legacy)                               |
+| models/text-bison-001                      | PaLM 2 (Legacy)                                    |
+| models/embedding-gecko-001                 | Embedding Gecko                                    |
+| models/gemini-1.0-pro-vision-latest        | Gemini 1.0 Pro Vision                              |
+| models/gemini-pro-vision                   | Gemini 1.0 Pro Vision                              |
+| models/gemini-1.5-pro-latest               | Gemini 1.5 Pro Latest                              |
+| models/gemini-1.5-pro-001                  | Gemini 1.5 Pro 001                                 |
+| models/gemini-1.5-pro-002                  | Gemini 1.5 Pro 002                                 |
+| models/gemini-1.5-pro                      | Gemini 1.5 Pro                                     |
+| models/gemini-1.5-flash-latest             | Gemini 1.5 Flash Latest                            |
+| models/gemini-1.5-flash-001                | Gemini 1.5 Flash 001                               |
+| models/gemini-1.5-flash-001-tuning         | Gemini 1.5 Flash 001 Tuning                        |
+| models/gemini-1.5-flash                    | Gemini 1.5 Flash                                   |
+| models/gemini-1.5-flash-002                | Gemini 1.5 Flash 002                               |
+| models/gemini-1.5-flash-8b                 | Gemini 1.5 Flash-8B                                |
+| models/gemini-1.5-flash-8b-001             | Gemini 1.5 Flash-8B 001                            |
+| models/gemini-1.5-flash-8b-latest          | Gemini 1.5 Flash-8B Latest                         |
+| models/gemini-1.5-flash-8b-exp-0827        | Gemini 1.5 Flash 8B Experimental 0827              |
+| models/gemini-1.5-flash-8b-exp-0924        | Gemini 1.5 Flash 8B Experimental 0924              |
+| models/gemini-2.0-flash-exp                | Gemini 2.0 Flash Experimental                      |
+| models/gemini-2.0-flash                    | Gemini 2.0 Flash                                   |
+| models/gemini-2.0-flash-001                | Gemini 2.0 Flash 001                               |
+| models/gemini-2.0-flash-lite-001           | Gemini 2.0 Flash-Lite 001                          |
+| models/gemini-2.0-flash-lite               | Gemini 2.0 Flash-Lite                              |
+| models/gemini-2.0-flash-lite-preview-02-05 | Gemini 2.0 Flash-Lite Preview 02-05                |
+| models/gemini-2.0-flash-lite-preview       | Gemini 2.0 Flash-Lite Preview                      |
+| models/gemini-2.0-pro-exp                  | Gemini 2.0 Pro Experimental                        |
+| models/gemini-2.0-pro-exp-02-05            | Gemini 2.0 Pro Experimental 02-05                  |
+| models/gemini-exp-1206                     | Gemini Experimental 1206                           |
+| models/gemini-2.0-flash-thinking-exp-01-21 | Gemini 2.0 Flash Thinking Experimental 01-21       |
+| models/gemini-2.0-flash-thinking-exp       | Gemini 2.0 Flash Thinking Experimental 01-21       |
+| models/gemini-2.0-flash-thinking-exp-1219  | Gemini 2.0 Flash Thinking Experimental             |
+| models/learnlm-1.5-pro-experimental        | LearnLM 1.5 Pro Experimental                       |
+| models/gemma-3-27b-it                      | Gemma 3 27B                                        |
+| models/embedding-001                       | Embedding 001                                      |
+| models/text-embedding-004                  | Text Embedding 004                                 |
+| models/gemini-embedding-exp-03-07          | Gemini Embedding Experimental 03-07                |
+| models/gemini-embedding-exp                | Gemini Embedding Experimental                      |
+| models/aqa                                 | Model that performs Attributed Question Answering. |
+| models/imagen-3.0-generate-002             | Imagen 3.0 002 model                               |
++--------------------------------------------+----------------------------------------------------+
